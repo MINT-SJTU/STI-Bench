@@ -38,3 +38,14 @@ Test code for openai api and open source models like Qwen 2.5 VL are provided in
 ## Conclusion
 
 STI-Bench provides a comprehensive benchmark for evaluating MLLMs' spatial-temporal understanding. Our findings reveal significant limitations in current models, particularly in precise quantitative tasks, highlighting inaccuracies in spatial quantification, temporal dynamics understanding, and cross-modal integration. There is a substantial gap between current capabilities and the reliability needed for real-world applications like embodied AI and autonomous driving. STI-Bench serves as a valuable tool for driving progress in developing MLLMs that can accurately perceive and reason about the physical world.
+
+## Citation
+
+```bibtex
+@article{li2025sti,
+    title={STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?}, 
+    author={Yun Li and Yiming Zhang and Tao Lin and XiangRui Liu and Wenxiao Cai and Zheng Liu and Bo Zhao},
+    year={2025},
+    journal={arXiv preprint arXiv:2503.23765},
+}
+```
