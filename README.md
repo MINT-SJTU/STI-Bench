@@ -1,6 +1,6 @@
 # STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?
 
-[![arXiv](https://img.shields.io/badge/arXiv-2503.23765-b31b1b.svg)](https://arxiv.org/abs/2503.23765) [![Hugging Face Datasets](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/MIRA-SJTU/STI-Bench) [![GitHub Repo](https://img.shields.io/badge/GitHub-Code-lightgrey)](https://github.com/MIRA-SJTU/STI-Bench)
+[![arXiv](https://img.shields.io/badge/arXiv-2503.23765-b31b1b.svg)](https://arxiv.org/abs/2503.23765) [![Hugging Face Datasets](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/MIRA-SJTU/STI-Bench) [![GitHub Repo](https://img.shields.io/badge/GitHub-Code-lightgrey)](https://github.com/MIRA-SJTU/STI-Bench)[![Homepage](https://img.shields.io/badge/Homepage-STI--Bench-brightgreen)](https://mira-sjtu.github.io/STI-Bench.io/)
 
 ---
 
