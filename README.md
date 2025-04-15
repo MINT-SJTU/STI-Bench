@@ -8,8 +8,8 @@
 </div>
 <div style="text-align: center">
   <a href="https://mp.weixin.qq.com/s/yIRoyI1HbChLZv4GuvI7BQ"><img src="https://img.shields.io/badge/量子位-red" alt="量子位"></a>
+  <a href="https://app.xinhuanet.com/news/article.html?articleId=8af447763b11efc491455eb93a27eac0"><img src="https://img.shields.io/badge/新华网-red" alt="新华网"></a>
 </div>
----
 
 ## Overview
 
