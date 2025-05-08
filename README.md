@@ -29,14 +29,14 @@ The use of Multimodal Large Language Models (MLLMs) as an end-to-end solution fo
 
 ```python
 from datasets import load_dataset
-sti_bench = load_dataset("MIRA-SJTU/STI-Bench")
+sti_bench = load_dataset("MINT-SJTU/STI-Bench")
 ```
 or you can:
 
 ```bash
 # Make sure git-lfs is installed (https://git-lfs.com)
 git lfs install
-git clone https://huggingface.co/datasets/MIRA-SJTU/STI-Bench
+git clone https://huggingface.co/datasets/MINT-SJTU/STI-Bench
 ```
 
 Test code for openai api and open source models like Qwen 2.5 VL are provided in this repo.
