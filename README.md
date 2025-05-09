@@ -29,7 +29,11 @@ The use of Multimodal Large Language Models (MLLMs) as an end-to-end solution fo
 
 ```python
 from datasets import load_dataset
-sti_bench = load_dataset("MINT-SJTU/STI-Bench")
+dataset = load_dataset(
+    "parquet",
+    data_files="https://huggingface.co/datasets/MINT-SJTU/STI-Bench/resolve/main/qa.parquet",
+    split="train",
+)
 ```
 or you can:
 
