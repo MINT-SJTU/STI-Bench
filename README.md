@@ -22,7 +22,7 @@ The use of Multimodal Large Language Models (MLLMs) as an end-to-end solution fo
 
 ## Results
 
-<img src="assets/images/results.jpg" alt="Main Results Table" style="zoom: 2.55%;" /> <img src="assets/images/radar.jpg" alt="Radar Chart Results" style="zoom: 30%;" />
+<img src="assets/images/results.png" alt="Main Results Table" style="zoom: 100%;" /> <img src="assets/images/radar.png" alt="Radar Chart Results" style="zoom: 100%;" />
 
 ---
 ## RUN Your Own Evaluation
