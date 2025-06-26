@@ -1,4 +1,4 @@
-# STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?
+# [ICCV 2025] STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?
 
 <div style="text-align: center">
   <a href="https://arxiv.org/abs/2503.23765"><img src="https://img.shields.io/badge/arXiv-2503.23765-b31b1b.svg" alt="arXiv"></a>
